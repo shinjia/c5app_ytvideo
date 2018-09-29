@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
 		xmlns:gap   = "http://phonegap.com/ns/1.0"
-		id	    = "tw.whatmake.shinjia.p5app.s001"
-		versionCode = "5" 
-		version     = "0.2.0" >
+		id	    = "tw.whatmake.shinjia.c5app.ytvideo"
+		versionCode = "1" 
+		version     = "0.1.0" >
  
-	<name>p5app_001</name>
+	<name>c5app_ytvideo</name>
  
 	<description>
-		終究相遇
+		傑優年度音樂會
 	</description>
  
 	<author href="" email="shinjia168@gmail.com">
